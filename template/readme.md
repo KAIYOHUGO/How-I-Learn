@@ -3,9 +3,9 @@
 This repository contain amount of free learning resource which I read in high school.
 
 - [How I Learn](#how-i-learn)
-  - [💻 Programming](#💻-programming)
-  - [🧮 Math](#🧮-math)
-  - [🌏 Science](#🌏-science)
+  - [💻 Programming](#-programming)
+  - [🧮 Math](#-math)
+  - [🌏 Science](#-science)
 
 ## 💻 Programming
 
