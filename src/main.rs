@@ -15,8 +15,10 @@ struct List {
 
 #[derive(Debug, Serialize, Deserialize)]
 struct Item {
+    #[serde(default)]
     video: Vec<Info>,
-    // article: Vec<Info>,
+    #[serde(default)]
+    article: Vec<Info>,
 }
 
 #[derive(Debug, Serialize, Deserialize)]

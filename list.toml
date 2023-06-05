@@ -1,14 +1,78 @@
+# [[programming.?]]
+# name = ""
+# description = ""
+# url = ""
+
+
+# Programming
+
 [[programming.video]]
 name = "FireShip"
 description = "Berif introduce tech thing (100 Second series)& Tech news (Code report series)"
 url = "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+
+[[programming.video]]
+name = "Josh's Channel"
+description = "The animations which cover math, computer science."
+url = "https://www.youtube.com/@JoshsHandle"
+
+
+[[programming.video]]
+name = "PwnFunction"
+description = "Animation about cyber security and computer science"
+url = "https://www.youtube.com/@PwnFunction"
+
+
+[[programming.video]]
+name = "t3ssel8r"
+description = "Math & Algorithm of game development"
+url = "https://www.youtube.com/@t3ssel8r"
+
+[[programming.article]]
+name = "Paper Reading by MLI (Chinese)"
+description = "Teach you how to read machine learning paper step by step"
+url = "https://github.com/mli/paper-reading"
+
+[[programming.article]]
+name = "Philosophical Principles of High Concurrency (Chinese)"
+description = "Talk about philosophical principles of high concurrency"
+url = "https://github.com/johnlui/PPHC"
+
+# Math
 
 [[math.video]]
 name = "3Blue1Brown"
 description = "Math animations. 'The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.'"
 url = "https://www.youtube.com/@3blue1brown"
 
+[[math.video]]
+name = "Lines That Connect"
+description = "Math animations about domain extension. Use limit and logarithm."
+url = "https://www.youtube.com/@LinesThatConnect"
+
+[[math.video]]
+name = "Josh's Channel"
+description = "The animations which cover math, computer science."
+url = "https://www.youtube.com/@JoshsHandle"
+
+[[math.video]]
+name = "blackpenredpen"
+description = "Math for fun!"
+url = "https://www.youtube.com/@blackpenredpen"
+
+# Science
+
 [[science.video]]
 name = "Veritasium"
-description = "'An element of truth - videos about science, education, and anything else I find interesting.'"
+description = "Explain science with real life example. 'An element of truth - videos about science, education, and anything else I find interesting.'"
 url = "https://www.youtube.com/@veritasium"
+
+[[science.video]]
+name = "Kurzgesagt"
+description = "Explain science with animations. 'To us nothing is boring if you tell a good story.'"
+url = "https://www.youtube.com/@kurzgesagt"
+
+[[science.video]]
+name = "PanSci Taiwan (Chinese)"
+description = "Explores the scientific news and discoveries"
+url = "https://www.youtube.com/@PanScitw"

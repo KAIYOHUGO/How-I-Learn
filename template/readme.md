@@ -16,6 +16,13 @@ This repository contain amount of free learning resource which I read in high sc
     {{item.description}}
   {% endfor %}
 
+- 📄 Article
+  {% for item in programming.article %}
+  - {{item.name}} [↗️]({{item.url}}) [🏠](#how-i-learn)
+  
+    {{item.description}}
+  {% endfor %}
+
 ## 🧮 Math
 
 - 🎬 Video
@@ -25,10 +32,24 @@ This repository contain amount of free learning resource which I read in high sc
     {{item.description}}
   {% endfor %}
 
+- 📄 Article
+  {% for item in math.article %}
+  - {{item.name}} [↗️]({{item.url}}) [🏠](#how-i-learn)
+  
+    {{item.description}}
+  {% endfor %}
+
 ## 🌏 Science
 
 - 🎬 Video
   {% for item in science.video %}
+  - {{item.name}} [↗️]({{item.url}}) [🏠](#how-i-learn)
+  
+    {{item.description}}
+  {% endfor %}
+
+- 📄 Article
+  {% for item in science.article %}
   - {{item.name}} [↗️]({{item.url}}) [🏠](#how-i-learn)
   
     {{item.description}}
