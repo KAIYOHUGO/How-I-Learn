@@ -1,0 +1,14 @@
+[[programming.video]]
+name = "FireShip"
+description = "Berif introduce tech thing (100 Second series)& Tech news (Code report series)"
+url = "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+
+[[math.video]]
+name = "3Blue1Brown"
+description = "Math animations. 'The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.'"
+url = "https://www.youtube.com/@3blue1brown"
+
+[[science.video]]
+name = "Veritasium"
+description = "'An element of truth - videos about science, education, and anything else I find interesting.'"
+url = "https://www.youtube.com/@veritasium"
